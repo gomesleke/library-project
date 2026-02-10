@@ -1,0 +1,24 @@
+{
+  "name": "library-project",
+  "version": "1.0.0",
+  "description": "This File Project have object to learn python to backend",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomesleke/library-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/gomesleke/library-project/issues"
+  },
+  "homepage": "https://github.com/gomesleke/library-project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
