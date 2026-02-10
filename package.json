@@ -4,6 +4,7 @@
   "description": "This File Project have object to learn python to backend",
   "main": "serve.js",
   "scripts": {
+    "dev": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,7 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
+  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/gomesleke/library-project/issues"
   },
